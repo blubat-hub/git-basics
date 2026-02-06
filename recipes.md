@@ -37,6 +37,15 @@ Stir-fry veggies, boil noodles, toss everything in sauce.
 
   Marinate beef at least 1 hour, BBQ grill or pan-fry over high heat.
 
+  ## Tteokbokki (Spicy Rice Cakes)
+  - Rice cakes (tteok)
+  - Gochujang (red pepper paste)
+  - Gochugaru (red pepper flakes)
+  - Fish cake, sliced
+  - Green onions
+
+Boil rice cakes until soft, simmer in gochujang sauce with fish cake, garnish with green onions.
+
 ---
 
 # Drinks
