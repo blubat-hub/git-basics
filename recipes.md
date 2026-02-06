@@ -35,4 +35,4 @@ Stir-fry veggies, boil noodles, toss everything in sauce.
   - Pear juice (or grated Asian pear)
   - Green onions
 
-  Marinate beef at least 1 hour, grill or pan-fry over high heat.
+  Marinate beef at least 1 hour, BBQ grill or pan-fry over high heat.
