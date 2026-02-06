@@ -17,3 +17,11 @@ Fry kimchi in sesame oil, add rice, top with fried egg.
 - Green onions
 
 Mix corn with mayo and sugar, top with cheese, broil until bubbly.
+
+## Japchae
+- Sweet potato noodles
+- Soy sauce + sesame oil
+- Spinach, carrots, mushrooms
+- Beef (optional)
+
+Stir-fry veggies, boil noodles, toss everything in sauce.
