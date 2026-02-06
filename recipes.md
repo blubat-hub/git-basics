@@ -56,7 +56,7 @@ Boil rice cakes until soft, simmer in gochujang sauce with fish cake, garnish wi
 - Sprite (splash)
 - Ice
 
-Mix soju and Yakult, top with Sprite, serve over ice.
+Combine Yakult and soju in a glass, add ice, finish with Sprite.
 
  # Desserts
 
