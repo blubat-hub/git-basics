@@ -48,3 +48,13 @@ Stir-fry veggies, boil noodles, toss everything in sauce.
 - Ice
 
 Mix soju and Yakult, top with Sprite, serve over ice.
+
+ # Desserts
+
+  ## Hotteok (Korean Sweet Pancakes)
+  - Flour, yeast, sugar (dough)
+  - Brown sugar, cinnamon, crushed peanuts (filling)
+  - Oil for frying
+
+  Form dough balls with filling inside, flatten on oiled pan, fry until golden and crispy.
+
