@@ -36,3 +36,15 @@ Stir-fry veggies, boil noodles, toss everything in sauce.
   - Green onions
 
   Marinate beef at least 1 hour, BBQ grill or pan-fry over high heat.
+
+---
+
+# Drinks
+
+## Soju Yakult
+- Soju (1 part)
+- Yakult (1 part)
+- Sprite (splash)
+- Ice
+
+Mix soju and Yakult, top with Sprite, serve over ice.
