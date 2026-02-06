@@ -25,3 +25,14 @@ Mix corn with mayo and sugar, top with cheese, broil until bubbly.
 - Beef (optional)
 
 Stir-fry veggies, boil noodles, toss everything in sauce.
+
+## Bulgogi                                                               
+  - Thinly sliced beef
+  - Soy sauce                                                                                                 
+  - Sesame oil    
+  - Sugar
+  - Garlic, minced
+  - Pear juice (or grated Asian pear)
+  - Green onions
+
+  Marinate beef at least 1 hour, grill or pan-fry over high heat.
